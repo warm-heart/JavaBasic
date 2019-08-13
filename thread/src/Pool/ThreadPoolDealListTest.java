@@ -21,10 +21,12 @@ public class ThreadPoolDealListTest {
             stringList.add("list任务" + i);
         }
 
+        BusinessnsService businessnsService = new BusinessnsService();
+
         ExecutorService service = Executors.newFixedThreadPool(5);
 
         for (int i = 0; i < stringList.size(); i++) {
-            DealList dealList = new DealList(stringList.get(i));
+            DealList dealList = new DealList(businessnsService,stringList.get(i));
             service.execute(dealList);
         }
     }
