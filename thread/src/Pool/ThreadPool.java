@@ -1,8 +1,6 @@
 package Pool;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -13,11 +11,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class ThreadPool {
     public static void main(String[] args) throws IOException {
-
-        List<String> stringList = new ArrayList<>();
-        for (int i = 0; i <1000 ; i++) {
-            stringList.add("list任务"+i);
-        }
 
 
         int corePoolSize = 5;
