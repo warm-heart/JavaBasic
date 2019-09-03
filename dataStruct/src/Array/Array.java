@@ -10,7 +10,7 @@ public class Array<E> {
 
     private E[] data;
     //size为下标索引
-    private int size;
+    private  int size;
 
     /**
      * @param capacity 构造函数 capacity 传入数组的容量capacity构造Array
@@ -65,7 +65,7 @@ public class Array<E> {
      * @param e 在头位置添加元素
      */
 
-    public void addFirst(E e) {
+    public  void addFirst(E e) {
         add(0, e);
     }
 

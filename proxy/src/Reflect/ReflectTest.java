@@ -7,10 +7,9 @@ package Reflect;
 //获取类对象
 public class ReflectTest {
     public static void main(String[] args) {
-
-
+        System.out.println(Student.class.getSimpleName());
         //第一种方式获得Class对象
-        Student student = new Student(); //产生Student.Class文件
+       /* Student student = new Student(); //产生Student.Class文件
         Class studentClass1 = student.getClass();  //获取Class对象
         System.out.println(studentClass1.getName());
 
@@ -27,7 +26,7 @@ public class ReflectTest {
             System.out.println(studentClass3 == studentClass2);
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
-        }
+        }*/
 
 
 

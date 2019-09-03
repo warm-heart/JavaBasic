@@ -120,7 +120,7 @@ public class LinkedList<E> {
     // 在链表中不是一个常用的操作，练习用：）
     public void set(int index, E e) {
         if (index < 0 || index >= size)
-            throw new IllegalArgumentException("Set failed. Illegal index.");
+            throw new IllegalArgumentException("HashSetTest failed. Illegal index.");
 
         Node cur = dummyHead.next;
         for (int i = 0; i < index; i++)
