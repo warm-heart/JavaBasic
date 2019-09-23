@@ -12,6 +12,12 @@ public class Count {
 
         CountDownLatch countDownLatch = new CountDownLatch(1);
 
+        //打印顺序
+        // 1.主线程开始阻塞
+        //2.子线程开始运行
+        //3.主线程阻塞结束
+        //子线程运行结束
+        //可见  countDownLatch.countDown()方法把计数器减为0，在countDownLatch.await()的线程结束阻塞状态，等待cpu调度
 
         new Thread(new Runnable() {
             @Override
@@ -24,11 +30,12 @@ public class Count {
                 }
                 countDownLatch.countDown();
 
-               /* try {
+                try {
                     Thread.sleep(9000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
-                }*/
+                }
+
                 System.out.println("子线程运行结束");
             }
         }).start();
