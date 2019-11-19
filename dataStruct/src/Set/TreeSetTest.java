@@ -12,8 +12,8 @@ public class TreeSetTest {
     public static void main(String[] args) {
 
         People people = new People("wang", 16);
-        People people1 = new People("wang", 15);
-        People people2 = new People("wang", 18);
+        People people1 = new People("a", 15);
+        People people2 = new People("b", 18);
 
 
         Set<People> set = new TreeSet<>();
@@ -25,9 +25,20 @@ public class TreeSetTest {
 
         Iterator<People> iterator = set.iterator();
 
-        while (iterator.hasNext()) {
-            iterator.remove();
 
+        while (iterator.hasNext()) {
+
+            People people3 = iterator.next();
+            if (people3.getName().equals("a")) {
+                iterator.remove();
+            }
+        }
+
+
+        System.out.println(set);
+
+
+        while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
 

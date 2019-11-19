@@ -10,6 +10,7 @@ public class Animal {
     private String color;
 
      String desc;
+     String father="father中变量";
 
 
 

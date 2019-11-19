@@ -1,7 +1,6 @@
 package Linked;
 
 
-
 /**
  * @author wangqianlong
  * @create 2019-04-12 13:18
@@ -17,5 +16,6 @@ public class Test {
         System.out.println(linkedList.isEmpty());
         System.out.println(linkedList);
     }
+
 
 }

@@ -10,6 +10,7 @@ public class Cat extends Animal {
 
     private String desc;
 
+
     public String getDesc() {
         return desc;
     }
@@ -39,6 +40,7 @@ public class Cat extends Animal {
         //父子类中同名变量可以用super区别
         //System.out.println(desc);
         // System.out.println(super.desc);
+
     }
 
     public static void main(String[] args) {
