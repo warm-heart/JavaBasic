@@ -19,6 +19,15 @@ import java.util.stream.Collectors;
 * */
 
 public class integer {
+
+
+    public abstract class MyClass {
+        public int constInt = 5;
+
+        //add code here
+        public void method() {
+        }
+    }
     public static void main(String[] args) {
         Integer q=1;
         Integer w =new Integer(1);
@@ -31,8 +40,6 @@ public class integer {
         int r=1;
         System.out.println(r==q);
         System.out.println(r==w);
-
-     
 
     }
 }
