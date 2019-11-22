@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaBasic/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/../JavaBasic/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/RPC/RPC.iml" filepath="$PROJECT_DIR$/RPC/RPC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../JavaBasic/basic/basic.iml" filepath="$PROJECT_DIR$/../JavaBasic/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
     </modules>
   </component>
