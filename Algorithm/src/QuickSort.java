@@ -8,7 +8,8 @@ import java.util.Random;
 
 public class QuickSort {
 
-    public static void QuickSort(int[] s, int left, int right) {
+    public static void quickSort(int[] s, int left, int right) {
+
         //递归终止条件 数组为 0，1或者数组本身就是有序的
         if (left >= right) {
             return;
@@ -29,10 +30,11 @@ public class QuickSort {
                 s[i] = temp;
             }
         }
-        s[left] = s[i];
-        s[i] = k;
-        QuickSort(s, left, i - 1);
-        QuickSort(s, i + 1, right);
+        s[left]=s[i];
+        s[i]=k;
+        quickSort(s,left,i-1);
+        quickSort(s,i+1,right);
+
     }
 
     public static void main(String[] args) {
@@ -42,7 +44,7 @@ public class QuickSort {
             num[i] = random.nextInt(1000);
         }
 
-        QuickSort(num, 0, 99);
+        quickSort(num, 0, 99);
         for (int i = 0; i < num.length; i++) {
             System.out.println(num[i]);
         }
