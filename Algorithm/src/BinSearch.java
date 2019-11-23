@@ -40,5 +40,15 @@ public class BinSearch {
         int a[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         int s = binSearch.binSearch(a, 5);
         System.out.println(s);
+
+        //不用中间变量交换两个数的值
+        int c = 1;
+        int b = 2;
+
+        c = c ^ b;
+        b = c ^ b;
+        c = c ^ b;
+        System.out.println(c);
+        System.out.println(b);
     }
 }

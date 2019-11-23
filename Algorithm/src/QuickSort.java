@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -49,5 +51,7 @@ public class QuickSort {
             System.out.println(num[i]);
         }
         Arrays.sort(num);
+       List<Integer> list = new ArrayList<>();
+
     }
 }
