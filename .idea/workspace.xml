@@ -16,16 +16,29 @@
         <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/stringReverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode344.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode344.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/LeetCode344.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="267">
               <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/BinSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dataStruct/src/Array/u.java" />
         <option value="$PROJECT_DIR$/dataStruct/src/Array/Array.java" />
         <option value="$PROJECT_DIR$/dataStruct/src/Set/TreeSetTest.java" />
         <option value="$PROJECT_DIR$/dataStruct/src/Array/ArrayTest.java" />
@@ -98,12 +110,13 @@
         <option value="$PROJECT_DIR$/Algorithm/src/QuickSort.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/binSearch.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/BinSearch.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/QuickSort.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/twoSum.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/LeetCodeLcp1.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/LeetCode1108.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/LeetCode509.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/LeetCode344.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/twoSum.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/LeetCodeLcp1.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/LeetCode1108.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/LeetCode509.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/LeetCode344.java" />
+        <option value="$PROJECT_DIR$/../JavaBasic/Algorithm/src/BinSearch.java" />
       </list>
     </option>
   </component>
@@ -122,7 +135,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/..////////////////////////////////////////////////////////Program Files (x86)/apache-maven-3.5.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../////////////////////////////////////////////////////////Program Files (x86)/apache-maven-3.5.3" />
         <option name="userSettingsFile" value="E:\Program Files (x86)\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -141,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,8 +176,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode344">
+  <component name="RunManager" selected="Application.BinSearch">
     <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinSearch" />
       <module name="Algorithm" />
@@ -301,11 +314,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinSearch" />
         <item itemvalue="Application.LeetCode344" />
         <item itemvalue="Application.LeetCode1108" />
         <item itemvalue="Application.LeetCodeLcp1" />
         <item itemvalue="Application.twoSum" />
-        <item itemvalue="Application.BinSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -375,11 +388,12 @@
       <workItem from="1574418994700" duration="1930000" />
       <workItem from="1574485136773" duration="2892000" />
       <workItem from="1574488176767" duration="5015000" />
+      <workItem from="1574494254910" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102929000" />
+    <option name="totallyTimeSpent" value="103001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -404,18 +418,18 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25123966" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25123966" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3289256" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
@@ -744,12 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="1921" column="43" selection-start-line="1921" selection-start-column="43" selection-end-line="1921" selection-end-column="43" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#88329#88330#0" expanded="true" />
-            <element signature="e#88386#88387#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,17 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/BinSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,14 +812,25 @@
     <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/stringReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/LeetCode344.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="267">
           <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaBasic/Algorithm/src/BinSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
