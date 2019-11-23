@@ -17,7 +17,9 @@ public class BinSearch {
         int low = fromIndex;
         int high = toIndex;
         int mid = fromIndex + (toIndex - fromIndex) / 2;
-        if (low >= fromIndex) {
+        if (low >= high) {
+            if (s[low] == key)
+                return low;
             return -1;
         }
         if (s[mid] == key) {
@@ -29,14 +31,14 @@ public class BinSearch {
         if (s[mid] < key) {
             return binSearch0(s, mid + 1, toIndex, key);
         }
-        else 
+
         return -1;
     }
 
     public static void main(String[] args) {
         BinSearch binSearch = new BinSearch();
         int a[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        int s = binSearch.binSearch(a, 0);
+        int s = binSearch.binSearch(a, 5);
         System.out.println(s);
     }
 }
