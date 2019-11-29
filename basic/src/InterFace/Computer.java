@@ -5,7 +5,9 @@ package InterFace;
  * @create 2019-08-20 15:35
  */
 
-public interface Computer {
+public  interface Computer {
+    String name = "ad";
+
 
     static void print() {
         System.out.println("static修饰的方法");
