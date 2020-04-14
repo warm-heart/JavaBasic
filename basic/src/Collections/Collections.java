@@ -1,8 +1,8 @@
 package Collections;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
+import basic.Animal;
+
+import java.util.*;
 
 /**
  * @author wangqianlong
@@ -27,6 +27,19 @@ public class Collections {
         list2.add("k");
 
         System.out.println(list1);
+        list.forEach(e-> System.out.println(e));
+
+        HashMap<String,String> hashMap = new HashMap<>();
+        hashMap.put("one","one");
+
+
+        for (Map.Entry entry:hashMap.entrySet()) {
+            System.out.println(entry);
+        }
+
+        hashMap.forEach((k,v)-> System.out.println(k+": "+v));
+
+
 
     }
 }

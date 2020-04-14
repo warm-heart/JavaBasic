@@ -23,10 +23,10 @@ public class twoSum {
     }
 
     public static void main(String[] args) {
-        int[] nums = {3,2,4};
+        int[] nums = {1,2,4,7,8,11,15};
         twoSum twoSum = new twoSum();
 
-        int[] result = twoSum.twoSum(nums, 6);
+        int[] result = twoSum.twoSum(nums, 15);
         for (int i = 0; i < result.length; i++) {
             System.out.println(result[i]);
         }

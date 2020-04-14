@@ -29,15 +29,15 @@ public class integer {
         }
     }
     public static void main(String[] args) {
-        Integer q=1;
-        Integer w =new Integer(1);
+        Integer q=129;
+        Integer w =new Integer(129);
         Integer e = Integer.valueOf(1);
         System.out.println(q==w);
         System.out.println(q==e);  //小于127为true
         System.out.println(w==e);
 
 
-        int r=1;
+        int r=129;
         System.out.println(r==q);
         System.out.println(r==w);
 

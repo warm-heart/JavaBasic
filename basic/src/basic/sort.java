@@ -17,7 +17,7 @@ public class sort {
             System.out.println(s[i]);
         }*/
 
-      
+
 
         ArrayList<Animal> list = new ArrayList();
         Animal animal = new Animal("first", "red");
@@ -29,6 +29,7 @@ public class sort {
 
         Animal animal1 = new Animal("next", "red");
         list1.set(0, animal1);
+
         System.out.println("修改后");
         System.out.println(list);
         System.out.println(list1);

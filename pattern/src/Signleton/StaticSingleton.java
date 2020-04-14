@@ -5,6 +5,7 @@ package Signleton;
  * @create 2019-08-02 15:09
  */
 
+
 public class StaticSingleton {
 
     private static StaticSingleton staticSingleton = new StaticSingleton();
