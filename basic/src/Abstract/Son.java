@@ -12,11 +12,18 @@ public class Son extends Father {
         System.out.println("son afterAccess");
     }
 
+    public void test() {
+        System.out.println("子类独有的方法");
+    }
+
     public static void main(String[] args) {
         Son son = new Son();
         son.play();
 
-        /*Father father = new Father();
-        father.play();*/
+        Father father = new Son();
+        ((Son) father).test();
+
+        Father father1 = new Father();
+        father.play();
     }
 }

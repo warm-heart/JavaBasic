@@ -1,7 +1,6 @@
 package Signleton;
 
 
-
 /**
  * @author wangqianlong
  * @create 2020-04-05 13:18
@@ -11,13 +10,16 @@ public class InnerClassSingleton {
     private InnerClassSingleton() {
     }
 
-    InnerClassSingleton getInnerClassSingleton() {
-        return InnerClassHolerd.singleton;
+    public static InnerClassSingleton getInnerClassSingleton() {
+        return InnerClassHolder.singleton;
     }
 
-    private static class InnerClassHolerd {
+    private static class InnerClassHolder {
 
-         static InnerClassSingleton singleton = new InnerClassSingleton();
+        static InnerClassSingleton singleton = new InnerClassSingleton();
     }
+
+
+
 
 }

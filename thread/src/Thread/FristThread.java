@@ -6,6 +6,12 @@ package Thread;
  */
 
 public class FristThread extends Thread {
+    public FristThread() {
+    }
+
+    public FristThread(String name) {
+        super(name);
+    }
 
     @Override
     public void run() {

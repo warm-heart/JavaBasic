@@ -10,7 +10,7 @@ package runable;
 public class RunableTest {
     public static void main(String[] args) {
 
-        Thread thread1 =new Thread(new FristRunable(),"firstRunable");
+        Thread thread1 =new Thread(new FirstRunnable(),"firstRunable");
         thread1.run();
     }
 }

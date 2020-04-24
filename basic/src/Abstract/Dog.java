@@ -13,7 +13,6 @@ public class Dog extends Animal {
     }
 
 
-
     @Override
     public String fly() {
         System.out.println("I can fly");
@@ -26,4 +25,15 @@ public class Dog extends Animal {
         //调用父类方法
         super.eat();
     }
+
+    public static void main(String[] args) {
+        Dog dog = new Dog("二哈");
+        dog.eat();
+        dog.fly();
+
+        Animal animal = new Dog("泰迪");
+        animal.eat();
+    }
 }
+
+

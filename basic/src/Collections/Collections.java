@@ -1,7 +1,5 @@
 package Collections;
 
-import basic.Animal;
-
 import java.util.*;
 
 /**
@@ -11,7 +9,7 @@ import java.util.*;
 
 public class Collections {
     public static void main(String[] args) {
-        List<String> list = new ArrayList<>();
+     /*   List<String1> list = new ArrayList<>();
         list.add("a");
         list.add("s");
         list.add("d");
@@ -27,19 +25,23 @@ public class Collections {
         list2.add("k");
 
         System.out.println(list1);
-        list.forEach(e-> System.out.println(e));
+        list.forEach(e-> System.out.println(e));*/
 
-        HashMap<String,String> hashMap = new HashMap<>();
-        hashMap.put("one","one");
+     /*   HashMap<String, String> hashMap = new HashMap<>();
+        hashMap.put("one", "one");
 
 
-        for (Map.Entry entry:hashMap.entrySet()) {
+        for (Map.Entry entry : hashMap.entrySet()) {
             System.out.println(entry);
         }
 
-        hashMap.forEach((k,v)-> System.out.println(k+": "+v));
+        hashMap.forEach((k, v) -> System.out.println(k + ": " + v));*/
 
-
+        Set<String> strings = new TreeSet<>();
+        strings.add("a");
+        strings.add("c");
+        strings.add("b");
+        strings.forEach(e -> System.out.println(e));
 
     }
 }

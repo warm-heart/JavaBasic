@@ -1,4 +1,6 @@
-package basic;
+package Abstract;
+
+
 
 /**
  * @author wangqianlong
@@ -43,14 +45,20 @@ public class Cat extends Animal {
 
     }
 
+    @Override
+    protected String fly() {
+        return "子类fly方法";
+    }
+
     public static void main(String[] args) {
         Cat cat = new Cat("kiki", "red", 4);
         cat.eat();
 
         System.out.println("cat getDesc:" + cat.getDesc());
 
-        Animal animal = new Animal();
-        System.out.println("animal getDesc:" + animal.getDesc());
+        Animal animal = new Cat();
+
+        System.out.println("animal getDesc:" + ((Cat) animal).getDesc());
 
 
     }
