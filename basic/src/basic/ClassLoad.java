@@ -1,6 +1,5 @@
 package basic;
 
-import com.sun.org.apache.bcel.internal.util.ClassLoader;
 
 /**
  * @author wangqianlong
@@ -8,16 +7,25 @@ import com.sun.org.apache.bcel.internal.util.ClassLoader;
  */
 
 public class ClassLoad {
+    static final int q = 1;
     static int i = 106;
+    int e;
+    final String CONSTANT = "常量";
+
+    //
+    {
+        System.out.println(e);
+        System.out.println("普通代码块");
+    }
 
     static {
         System.out.println(i);
         System.out.println("初始化");
     }
 
-
-    public static void main(String[] args) throws ClassNotFoundException {
-        ClassLoad classLoad = new ClassLoad();
-        System.out.println(classLoad.i);
+    public static void staticMethod() {
+        System.out.println("静态方法");
     }
+
+
 }

@@ -18,4 +18,6 @@ public  interface Computer {
     }
 
     void print2();
+
+
 }

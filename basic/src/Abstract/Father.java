@@ -7,13 +7,13 @@ package Abstract;
 
 public class Father {
 
-    public  void play(){
+    public void play() {
 
         System.out.println("father play");
         afterAccess();
     }
 
-    public void afterAccess(){
+    public void afterAccess() {
         throw new UnsupportedOperationException();
     }
 

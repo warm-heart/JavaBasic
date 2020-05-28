@@ -12,7 +12,6 @@ public class SafeThreadTest {
 
 
 
-
         for (int i = 0; i < 100; i++) {
             new Thread(countThread, "线程" + i).start();
         }

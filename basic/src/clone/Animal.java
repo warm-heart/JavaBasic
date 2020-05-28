@@ -37,6 +37,11 @@ public class Animal implements Cloneable ,Serializable{
         this.home = home;
     }
 
+    public Animal(String type, Integer age) {
+        this.type = type;
+        this.age = age;
+    }
+
     public String getType() {
         return type;
     }

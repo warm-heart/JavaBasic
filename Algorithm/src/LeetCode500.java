@@ -11,7 +11,8 @@ public class LeetCode500 {
 
     public String[] findWords(String[] words) {
 
-        String[] resullt = new String[words.length];
+
+        String[] result = new String[words.length];
         HashMap map = new HashMap();
         map.put("q", "q");
         map.put("w", "w");
@@ -47,13 +48,13 @@ public class LeetCode500 {
         for (int i = 0; i < words.length; i++) {
 
             if (isSuccess(map, words[i]) || isSuccess(map1, words[i]) || isSuccess(map2, words[i])) {
-                resullt[m] = words[i];
+                result[m] = words[i];
                 m++;
             }
 
         }
 
-        return Arrays.copyOf(resullt, m);
+        return Arrays.copyOf(result, m);
     }
 
     public boolean isSuccess(HashMap<String, String> map, String source) {

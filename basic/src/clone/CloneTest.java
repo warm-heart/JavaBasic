@@ -8,7 +8,7 @@ import java.io.IOException;
  */
 
 public class CloneTest {
-    public static void main(String[] args) throws CloneNotSupportedException, IOException, ClassNotFoundException {
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
 
         AnimalHome animalHome = new AnimalHome("四川");
         Animal animal = new Animal("动物", 3, animalHome);
@@ -18,6 +18,7 @@ public class CloneTest {
         animal1.getHome().setLocate("成都");
         System.out.println(animal);
         System.out.println(animal1.getHome().hashCode());
+
 
     }
 }

@@ -1,5 +1,7 @@
 package basic;
 
+import clone.Animal;
+
 import java.util.*;
 
 /**
@@ -20,14 +22,14 @@ public class sort {
 
 
         ArrayList<Animal> list = new ArrayList();
-        Animal animal = new Animal("first", "red");
+        Animal animal = new Animal("first", 1);
         list.add(animal);
         ArrayList<Animal> list1 = (ArrayList<Animal>) list.clone();
         System.out.println("修改前");
         System.out.println(list);
         System.out.println(list1);
 
-        Animal animal1 = new Animal("next", "red");
+        Animal animal1 = new Animal("next", 1);
         list1.set(0, animal1);
 
         System.out.println("修改后");

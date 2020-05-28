@@ -10,7 +10,7 @@ import java.io.*;
 public class readFile {
 
     public int da() {
-        File file = new File("E:\\ddemo.txt");
+        File file = new File("E:\\demo.txt");
         try {
             InputStream inputStream = new FileInputStream(file);
             return 1;
@@ -20,10 +20,13 @@ public class readFile {
     }
 
     public static void main(String[] args) {
-        File file = new File("E:\\ddemo.txt");
+
+        File file = new File("E:\\demo.txt");
+
         try {
+            //字节流
             InputStream inputStream = new FileInputStream(file);
-            byte[] buf = new byte[1024];
+            byte[] buf = new byte[1024]; //1k大小
 
             int length = 0;
             while ((length = inputStream.read(buf)) != -1) {

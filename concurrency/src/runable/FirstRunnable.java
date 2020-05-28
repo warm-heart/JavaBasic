@@ -17,4 +17,9 @@ public class FirstRunnable implements Runnable {
     public void run() {
         System.out.println("It is First Runnable");
     }
+
+    public static void main(String[] args) {
+        Thread thread1 =new Thread(new FirstRunnable(),"firstRunable");
+        thread1.run();
+    }
 }

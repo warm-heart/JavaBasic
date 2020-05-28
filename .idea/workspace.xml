@@ -11,7 +11,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BubblingSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/BubblingSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="58" column="9" selection-start-line="53" selection-start-column="2" selection-end-line="58" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JavaBasic" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -35,57 +54,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic/src/lambda/ReturnConsume.java" />
-        <option value="$PROJECT_DIR$/basic/src/lambda/PredictConsume.java" />
-        <option value="$PROJECT_DIR$/basic/src/lambda/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/LruCache.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/LRUCache.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/sort.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/HashmapTest.java" />
         <option value="$PROJECT_DIR$/basic/src/Collections/Collections.java" />
-        <option value="$PROJECT_DIR$/basic/src/basic/integer.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/LRUCache.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/QuickSort.java" />
-        <option value="$PROJECT_DIR$/basic/src/Abstract/Father.java" />
-        <option value="$PROJECT_DIR$/basic/src/Abstract/Son.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/TwoStackQueue.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/TwoQueueStack.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/TwoQueueStack.java" />
-        <option value="$PROJECT_DIR$/basic/src/Collections/Collections.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/SetTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/ListTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/LeetCode500.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/SetTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/ListTest.java" />
         <option value="$PROJECT_DIR$/basic/src/basic/ClassLoad.java" />
-        <option value="$PROJECT_DIR$/basic/src/basic/Cat.java" />
-        <option value="$PROJECT_DIR$/basic/src/ava/lang/String.java" />
-        <option value="$PROJECT_DIR$/basic/src/Java/lang/String1.java" />
-        <option value="$PROJECT_DIR$/basic/src/Java/lang/String.java" />
-        <option value="$PROJECT_DIR$/basic/src/Collections/Collections.java" />
-        <option value="$PROJECT_DIR$/basic/src/lambda/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/basic/src/Java/lang/test.java" />
-        <option value="$PROJECT_DIR$/basic/src/Java/lang/String.java" />
-        <option value="$PROJECT_DIR$/basic/src/lambda/Test.java" />
-        <option value="$PROJECT_DIR$/basic/src/Collections/Collections.java" />
-        <option value="$PROJECT_DIR$/thread/src/Thread/FristThread.java" />
-        <option value="$PROJECT_DIR$/thread/src/runable/FristRunable.java" />
-        <option value="$PROJECT_DIR$/thread/src/runable/FirstRunable.java" />
-        <option value="$PROJECT_DIR$/thread/src/runable/FirstRunnable.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/User.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/SimpleFormatTest.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/UserContextHolder.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/threadLocal.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/FormatThread.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/UserContextHolder.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/SimpleFormatTest.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/SimpleFormatTest.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/UserContextHolder.java" />
-        <option value="$PROJECT_DIR$/pattern/src/Signleton/StaticSingleton.java" />
-        <option value="$PROJECT_DIR$/pattern/src/Signleton/Test.java" />
-        <option value="$PROJECT_DIR$/pattern/src/Signleton/InnerClassSingleton.java" />
-        <option value="$PROJECT_DIR$/thread/src/ThreadLocal/UserContextHolder.java" />
         <option value="$PROJECT_DIR$/basic/src/basic/WeakRef.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/TimeHandle.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/Test.java" />
         <option value="$PROJECT_DIR$/basic/src/basic/WeakRef.java" />
-        <option value="$PROJECT_DIR$/basic/src/basic/WeakRef.java" />
-        <option value="$PROJECT_DIR$/basic/src/basic/WeakRef.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Son.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Dog.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Animal.java" />
-        <option value="$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Cat.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoad.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/DataType.java" />
+        <option value="$PROJECT_DIR$/basic/src/clone/DeepClone.java" />
+        <option value="$PROJECT_DIR$/basic/src/clone/CloneTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/readFile.java" />
+        <option value="$PROJECT_DIR$/basic/src/Abstract/Father.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/Bus.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/Test.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/TimeHandle.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/Bmw.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/TimeProxy.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/Car.java" />
+        <option value="$PROJECT_DIR$/proxy/src/Jdkproxy/MapperProxy.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/runable/RunableTest.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/runable/FirstRunnable.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/SafeThread/SafeThreadTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/clone/DeepClone.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/OptimizeQuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/QuickSort.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoad.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/integer.java" />
+        <option value="$PROJECT_DIR$/basic/src/clone/DeepClone.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/ListTest.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/InsertSort.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoad.java" />
+        <option value="$PROJECT_DIR$/basic/src/basic/ClassLoadTest.java" />
+        <option value="$PROJECT_DIR$/basic/src/Collections/ListTest.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/sort/BubblingSort.java" />
       </list>
     </option>
   </component>
@@ -104,7 +123,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/..//////////////////////////////////////////////////////////////////////////////////////////////////////////Program Files (x86)/apache-maven-3.5.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/..////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Program Files (x86)/apache-maven-3.5.3" />
         <option name="userSettingsFile" value="E:\Program Files (x86)\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -123,9 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +152,24 @@
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -147,38 +181,54 @@
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Abstract" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="ThreadLocal&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;LinkedList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedList.java&#10;L&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedHashMap.java&#10;HashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java&#10;DataSource&#9;PSI&#9;JAVA://javax.sql.DataSource&#10;LinkedHas&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedHashMap.java&#10;Class&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java&#10;LinkedHashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedHashMap.java&#10;PreDiCa&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;F&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java&#10;Function&#9;PSI&#9;JAVA://java.util.function.Function&#10;Hash&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java&#10;Java.lang.Str&#9;PSI&#9;JAVA://java.lang.String&#10;List&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java&#10;RuntimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Comparato&#9;PSI&#9;JAVA://java.util.Comparator&#10;AbstractSet&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/AbstractSet.java&#10;WeakHash&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;HashSet&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashSet.java&#10;HashSe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/java/util/HashSet.class&#10;Copy&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java&#10;Con&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;TreeMap&#9;PSI&#9;JAVA://Map.TreeMapTest&#10;TreeSe&#9;PSI&#9;JAVA://Set.TreeSetTest&#10;Set&#9;FILE&#9;file://E:/JavaBasic/dataStruct/src/Set/TreeSetTest.java&#10;LinkedB&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingDeque&#10;ArrayBlocking&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ArrayBlockingQueue.java&#10;ReentrantLo&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;ConCurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;CopyOn&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
+    <property name="SearchEverywhereHistoryKey" value="Has&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java&#10;HashMap&#9;FILE&#9;file://E:/JavaBasic/basic/src/Collections/HashmapTest.java&#10;ClassNotF&#9;PSI&#9;JAVA://java.lang.ClassNotFoundException&#10;HashTab&#9;PSI&#9;JAVA://java.util.Hashtable&#10;TreeSet&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/TreeSet.java&#10;HashMa&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java&#10;Stack&#9;PSI&#9;JAVA://StackAndQueue.Stack&#10;HashSe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashSet.java&#10;Vect&#9;PSI&#9;JAVA://java.util.Vector&#10;TreeS&#9;PSI&#9;JAVA://Set.TreeSetTest&#10;Obj&#9;PSI&#9;JAVA://java.lang.Object&#10;Hashmap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Hashset&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashSet.java&#10;ThreadLocal&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;LinkedList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedList.java&#10;L&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedHashMap.java&#10;DataSource&#9;PSI&#9;JAVA://javax.sql.DataSource&#10;LinkedHas&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedHashMap.java&#10;Class&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java&#10;LinkedHashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedHashMap.java&#10;PreDiCa&#9;PSI&#9;JAVA://java.util.function.Predicate&#10;F&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java&#10;Function&#9;PSI&#9;JAVA://java.util.function.Function&#10;Hash&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java&#10;Java.lang.Str&#9;PSI&#9;JAVA://java.lang.String&#10;List&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java&#10;RuntimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Comparato&#9;PSI&#9;JAVA://java.util.Comparator&#10;AbstractSet&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/AbstractSet.java&#10;WeakHash&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;HashSet&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashSet.java&#10;Copy&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java&#10;Con&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;TreeMap&#9;PSI&#9;JAVA://Map.TreeMapTest&#10;TreeSe&#9;PSI&#9;JAVA://Set.TreeSetTest&#10;Set&#9;FILE&#9;file://E:/JavaBasic/dataStruct/src/Set/TreeSetTest.java&#10;LinkedB&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingDeque&#10;ArrayBlocking&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ArrayBlockingQueue.java&#10;ReentrantLo&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;ConCurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;CopyOn&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -192,6 +242,7 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="Jdkproxy" />
       <recent name="Map" />
       <recent name="Set" />
       <recent name="InterFace" />
@@ -216,23 +267,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Son">
-    <configuration name="ClassLoad" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ClassLoad" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BubblingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.BubblingSort" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassLoadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ClassLoadTest" />
       <module name="basic" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstract.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method>
-        <option name="Make" enabled="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Collections" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ListTest" />
       <module name="basic" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
@@ -241,108 +306,68 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SimpleFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadLocal.SimpleFormatTest" />
-      <module name="JavaBasic" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.QuickSort" />
+      <module name="Algorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SelectSort" />
+      <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadLocal.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstract.Son" />
-      <module name="basic" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="UserContextHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadLocal.UserContextHolder" />
-      <module name="JavaBasic" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ThreadLocal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WeakRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.WeakRef" />
-      <module name="basic" />
-      <option name="VM_PARAMETERS" value="-Xmx64M -Xms64M -Xx:+PrintGcDetails" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Abstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ClassLoad" />
-      <item itemvalue="Application.Collections" />
-      <item itemvalue="Application.UserContextHolder" />
-      <item itemvalue="Application.SimpleFormatTest" />
-      <item itemvalue="Application.WeakRef" />
-      <item itemvalue="Application.Son" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.ClassLoadTest" />
+      <item itemvalue="Application.ListTest" />
+      <item itemvalue="Application.BubblingSort" />
+      <item itemvalue="Application.SelectSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Son" />
-        <item itemvalue="Application.WeakRef" />
-        <item itemvalue="Application.UserContextHolder" />
-        <item itemvalue="Application.SimpleFormatTest" />
-        <item itemvalue="Application.Collections" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.BubblingSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.ClassLoadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -462,40 +487,55 @@
       <workItem from="1587276627826" duration="1750000" />
       <workItem from="1587292918601" duration="38000" />
       <workItem from="1587609288894" duration="1441000" />
+      <workItem from="1587711704960" duration="7530000" />
+      <workItem from="1587783545108" duration="6971000" />
+      <workItem from="1587878466132" duration="748000" />
+      <workItem from="1587889322427" duration="10441000" />
+      <workItem from="1587958578379" duration="66000" />
+      <workItem from="1588061070215" duration="3479000" />
+      <workItem from="1588090856889" duration="52000" />
+      <workItem from="1588171154376" duration="3206000" />
+      <workItem from="1588207959603" duration="2422000" />
+      <workItem from="1588210430045" duration="6622000" />
+      <workItem from="1588648144893" duration="2177000" />
+      <workItem from="1588660171416" duration="2516000" />
+      <workItem from="1588673820598" duration="2165000" />
+      <workItem from="1588930736839" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230863000" />
+    <option name="totallyTimeSpent" value="279292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.3289256" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23801653" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3338843" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3289256" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23801653" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3139183" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3338843" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3289256" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
@@ -504,12 +544,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.3289256" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25123966" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23801653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="DB Browser" order="4" />
@@ -520,12 +560,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="13" visible="true" weight="0.3289256" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36611196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3184569" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -545,355 +585,344 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="30" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/lambda/Test.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/proxy/src/Jdkproxy/Bmw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Java/lang/String.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Set.java">
+    <entry file="file://$PROJECT_DIR$/proxy/src/Jdkproxy/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Consumer.java">
+    <entry file="file://$PROJECT_DIR$/proxy/src/Jdkproxy/MapperProxy.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/Jdkproxy/TimeProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="275">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Iterable.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/Pool/DealList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Collections/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/VirtualMachineError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/OutOfMemoryError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="476" column="30" selection-start-line="476" selection-start-column="30" selection-end-line="476" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2614" column="21" selection-start-line="2614" selection-start-column="21" selection-end-line="2614" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Thread/FristThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Thread/InterruptThread.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/Pool/BusinessnsService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Thread/SecondThread.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/Pool/ThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="-932">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Thread/ThreeThread.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/runable/RunableTest.java" />
+    <entry file="file://$PROJECT_DIR$/concurrency/src/runable/FirstRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="258">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/Atomic/AtomicInt.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/SafeThread/SafeThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/SafeThread/priorityThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/Atomic/AtomicRF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/runable/FirstRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/lock/waitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/lock/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/lock/ThreadR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/lock/ReentrantTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/concurrency/src/lock/ReentrantDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/ThreadLocal/ThreadLocalTest.java" />
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/SafeThread/priorityThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/ThreadLocal/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="2037" column="20" lean-forward="true" selection-start-line="2037" selection-start-column="20" selection-end-line="2037" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Pool/ThreadPoolDealListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Pool/BusinessnsService.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/SafeThread/priorityThread1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/Executors.java">
+    <entry file="file://$PROJECT_DIR$/concurrency/src/Pool/ThreadPoolDealListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+        <state relative-caret-position="94">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/Pool/ThreadPool.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="-266">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/ThreadLocal/FormatThread.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/text/DateFormat.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="143" column="30" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/clone/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/OptimizeQuickSort.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13855">
+          <caret line="848" column="11" selection-start-line="848" selection-start-column="11" selection-end-line="848" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/clone/DeepClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/basic/integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/ThreadLocal/threadLocal.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ExecutorService.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1897" column="20" selection-start-line="1897" selection-start-column="20" selection-end-line="1897" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/NavigableSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="250" column="18" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/pattern/src/Signleton/Test.java" />
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/pattern/src/Signleton/InnerClassSingleton.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="180" column="38" lean-forward="true" selection-start-line="180" selection-start-column="38" selection-end-line="180" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/Collections/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="906" column="19" selection-start-line="906" selection-start-column="19" selection-end-line="906" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <caret line="1300" column="8" selection-start-line="1300" selection-start-column="8" selection-end-line="1300" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/Collections/ArraysTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/pattern/src/Signleton/StaticSingleton.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/Sort.java" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/BinSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/ThreadLocal/SimpleFormatTest.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/thread/src/ThreadLocal/UserContextHolder.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        <state relative-caret-position="-289">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ref/WeakReference.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/twoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ThreadLocal.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sumArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="307" column="64" selection-start-line="307" selection-start-column="63" selection-end-line="307" selection-end-column="64" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/basic/nginx.conf" />
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/basic/WeakRef.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="-526">
+          <caret line="419" column="47" selection-start-line="419" selection-start-column="34" selection-end-line="419" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/basic/ClassLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/DogTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/DistinctOps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="145">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Son.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/ReferencePipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="487" column="4" lean-forward="true" selection-start-line="487" selection-start-column="4" selection-end-line="487" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Father.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="137">
+          <caret line="806" selection-start-line="806" selection-end-line="806" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/basic/Animal.java">
+    <entry file="file://$PROJECT_DIR$/basic/src/Collections/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/basic/ClassLoadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="1991" column="28" selection-start-line="1991" selection-start-column="28" selection-end-line="1991" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/src/Collections/HashmapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Cat.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="935">
+          <caret line="58" column="9" selection-start-line="53" selection-start-column="2" selection-end-line="58" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Dog.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/sort/BubblingSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaBasic/basic/src/Abstract/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="182">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
