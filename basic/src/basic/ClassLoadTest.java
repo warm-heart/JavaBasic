@@ -8,10 +8,10 @@ import java.io.File;
  */
 
 public class ClassLoadTest {
-    public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException {/*
-        System.out.println(ClassLoad.q);//调用常量不会进行初始化阶段
-        System.out.println(ClassLoad.i);//调用静态变量会进行初始化
-        ClassLoad.staticMethod();//调用静态方法进行初始化*/
+    public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException {
+       // System.out.println(ClassLoad.q);//调用常量不会进行初始化阶段
+        //System.out.println(ClassLoad.i);//调用静态变量会进行初始化
+        //ClassLoad.staticMethod();//调用静态方法进行初始化
 
         /*ClassLoader classLoader =ClassLoad.class.getClassLoader();
         Class c = classLoader.loadClass("basic.ClassLoad");*/
@@ -23,7 +23,8 @@ public class ClassLoadTest {
 //        ClassLoad classLoad2 = new ClassLoad();
         //Class.forName("basic.ClassLoad");
 
-//        Class clazz = ClassLoadTest.class.getClassLoader().loadClass("basic.ClassLoad");
+       // Class clazz = ClassLoadTest.class.getClassLoader().loadClass("basic.ClassLoad");
+       //Class.forName("basic.ClassLoad",false,ClassLoadTest.class.getClassLoader());
 //        ClassLoad classLoad = (ClassLoad) clazz.newInstance();
 
 

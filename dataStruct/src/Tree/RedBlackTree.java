@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * @author wangqianlong
- * @create 2019-11-21 12:10
+ * @create 2018-8-21 12:10
  */
 
 public class RedBlackTree<K extends Comparable<K>, V> {
@@ -28,8 +28,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return RedBlackTree<K                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               V>.Node
-     * @author ronglexie
-     * @version 2018/9/2
      */
     //   node                     x
     //  /   \     左旋转         /  \
@@ -51,9 +49,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      * 颜色翻转
      *
      * @param node
-     * @return void
-     * @author ronglexie
-     * @version 2018/9/2
      */
     private void flipColors(Node node) {
         node.color = RED;
@@ -66,8 +61,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return RedBlackTree<K                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               V>.Node
-     * @author ronglexie
-     * @version 2018/9/2
      */
     //     node                   x
     //    /   \     右旋转       /  \
@@ -95,8 +88,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return boolean
-     * @author ronglexie
-     * @version 2018/9/2
      */
     public boolean isRed(Node node) {
         if (node == null) {
@@ -110,9 +101,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param key
      * @param value
-     * @return void
-     * @author ronglexie
-     * @version 2018/9/2
      */
     public void add(K key, V value) {
         root = add(root, key, value);
@@ -127,8 +115,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      * @param key
      * @param value
      * @return void
-     * @author ronglexie
-     * @version 2018/8/19
      */
     private Node add(Node node, K key, V value) {
         //递归终止条件，返回结果为null
@@ -169,10 +155,7 @@ public class RedBlackTree<K extends Comparable<K>, V> {
     /**
      * 查找红黑树的最小值
      *
-     * @param
      * @return V
-     * @author ronglexie
-     * @version 2018/8/18
      */
     public V minimum() {
         if (isEmpty()) {
@@ -187,8 +170,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return BinarySearchTree<E>.Node
-     * @author ronglexie
-     * @version 2018/8/18
      */
     private Node minimum(Node node) {
         if (isEmpty()) {
@@ -203,10 +184,7 @@ public class RedBlackTree<K extends Comparable<K>, V> {
     /**
      * 查找红黑树的最大值
      *
-     * @param
      * @return V
-     * @author ronglexie
-     * @version 2018/8/18
      */
     public V maximize() {
         if (isEmpty()) {
@@ -221,8 +199,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return BinarySearchTree<E>.Node
-     * @author ronglexie
-     * @version 2018/8/18
      */
     private Node maximize(Node node) {
         if (isEmpty()) {
@@ -237,10 +213,7 @@ public class RedBlackTree<K extends Comparable<K>, V> {
     /**
      * 删除红黑树的最大值
      *
-     * @param
      * @return V
-     * @author ronglexie
-     * @version 2018/8/18
      */
     public V removeMax() {
         V maximize = maximize();
@@ -254,8 +227,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return BinarySearchTree<E>.Node
-     * @author ronglexie
-     * @version 2018/8/18
      */
     private Node removeMax(Node node) {
         if (node.right == null) {
@@ -273,8 +244,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param
      * @return BinarySearchTree<E>.Node
-     * @author ronglexie
-     * @version 2018/8/18
      */
     public V removeMin() {
         V minimum = minimum();
@@ -288,8 +257,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      *
      * @param node
      * @return BinarySearchTree<E>.Node
-     * @author ronglexie
-     * @version 2018/8/18
      */
     private Node removeMin(Node node) {
         if (node.left == null) {
@@ -318,8 +285,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      * @param node
      * @param key
      * @return BinarySearchTree<E>.Node
-     * @author ronglexie
-     * @version 2018/8/18
      */
     private Node remove(Node node, K key) {
         if (node == null) {
@@ -405,8 +370,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
      * @param node
      * @param key
      * @return Node
-     * @author ronglexie
-     * @version 2018/8/19
      */
     public Node getNode(Node node, K key) {
         if (node == null) {
@@ -426,8 +389,6 @@ public class RedBlackTree<K extends Comparable<K>, V> {
     /**
      * 节点类
      *
-     * @author ronglexie
-     * @version 2018/8/18
      */
     private class Node {
 

@@ -10,6 +10,8 @@ public abstract class Animal {
     String name;
     Integer age;
 
+    int i =5;
+
     private String color;
     String desc;
     String father = "father中变量";

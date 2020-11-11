@@ -19,7 +19,7 @@ public class ConfigTest {
                           //读取配置文件并加载类
         Properties properties = new Properties();
         //InputStream in = ConfigTest.class.getResourceAsStream("SpringConfig.properties");  //本包下
-        InputStream in = ConfigTest.class.getResourceAsStream("/StaticProxy/config.properties");  //跨包
+        InputStream in = ConfigTest.class.getResourceAsStream("/StaticProxy/config.properties");   //跨包
         properties.load(in);
 
 
@@ -34,6 +34,8 @@ public class ConfigTest {
         Method method = clazz.getMethod(methodName);
         method.invoke(object);
         in.close();
+        
+
 
     }
 }

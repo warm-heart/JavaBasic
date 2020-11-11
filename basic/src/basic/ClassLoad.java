@@ -19,8 +19,8 @@ public class ClassLoad {
     }
 
     static {
+        System.err.println("执行静态块");
         System.out.println(i);
-        System.out.println("初始化");
     }
 
     public static void staticMethod() {
